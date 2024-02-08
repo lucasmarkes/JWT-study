@@ -1,0 +1,5 @@
+# ignore nodemodule and yarn.lock
+node_modules
+yarn.lock
+tsconfig.json
+```
